@@ -1,4 +1,3 @@
-```markdown
 # Genetic Algorithm for Conway's Game of Life
 
 This project implements a Genetic Algorithm to optimize patterns in Conway's Game of Life. It includes:
